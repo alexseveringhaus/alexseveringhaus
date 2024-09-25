@@ -1,4 +1,10 @@
-## Hi there 👋
+## About Me
+
+• I am a sophomore at the University of Southern California, Viterbi School of Engineering
+
+• I am pursuing a Bachelor of Science in Computer Engineering & Computer Science
+
+• Here is my [LinkedIn Profile](https://www.linkedin.com/in/alex-severinghaus/)
 
 <!--
 **alexseveringhaus/alexseveringhaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
