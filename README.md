@@ -1,4 +1,4 @@
-## About Me
+## Alex Severinghaus
 
 • I am a sophomore at the University of Southern California, Viterbi School of Engineering
 
