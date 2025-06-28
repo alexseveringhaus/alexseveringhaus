@@ -1,6 +1,6 @@
 ## Alex Severinghaus
 
-• I am a sophomore at the University of Southern California, Viterbi School of Engineering
+• I am a junior at the University of Southern California, Viterbi School of Engineering
 
 • I am pursuing a Bachelor of Science in Computer Engineering & Computer Science
 
