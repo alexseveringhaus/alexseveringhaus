@@ -4,7 +4,7 @@
 
 • Pursuing a Bachelor of Science in Computer Engineering & Computer Science
 
-• Check out my [LinkedIn Profile](https://www.linkedin.com/in/alex-severinghaus/) and [website](http://alexsev.com).
+• Check out my [LinkedIn Profile](https://www.linkedin.com/in/alex-severinghaus/) and [website](http://alexsev.com)
 
 <!--
 **alexseveringhaus/alexseveringhaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
