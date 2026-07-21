@@ -1,22 +1,11 @@
 ## Alex Severinghaus
 
-• Junior at the University of Southern California, Viterbi School of Engineering
+Computer Engineering & Computer Science junior at USC, looking for new-grad SWE roles.
 
-• Pursuing a Bachelor of Science in Computer Engineering & Computer Science
+I like building end-to-end — from a model or embedded sensor through to a deployed, working system. A few projects:
 
-• Check out my [LinkedIn Profile](https://www.linkedin.com/in/alex-severinghaus/) and [website](http://alexsev.com)
+- **[alzheimers-ML](https://github.com/alexseveringhaus/alzheimers-ML)** — ML classifiers for Alzheimer's diagnosis on real ADNI neuroimaging data, deployed as a live API + dashboard.
+- **[Market-Neural-Network](https://github.com/alexseveringhaus/Market-Neural-Network)** — neural network ensemble for stock trend prediction with a backtested trading strategy.
+- **[Noise-Monitoring-IoT](https://github.com/alexseveringhaus/Noise-Monitoring-IoT)** — Raspberry Pi + sound sensor system that reacts to ambient noise in real time.
 
-<!--
-**alexseveringhaus/alexseveringhaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Website](https://alexsev.com) · [LinkedIn](https://www.linkedin.com/in/alex-severinghaus/)
