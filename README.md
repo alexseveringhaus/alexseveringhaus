@@ -1,6 +1,6 @@
 ## Alex Severinghaus
 
-Computer Engineering & Computer Science junior at USC, looking for new-grad SWE roles.
+Computer Engineering & Computer Science rising-Senior at USC, looking for new-grad SWE roles.
 
 I enjoy working on things that have a real impact and owning them end-to-end. A few projects:
 
