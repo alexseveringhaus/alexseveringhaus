@@ -4,6 +4,7 @@ Computer Engineering & Computer Science senior at USC, looking for new-grad SWE 
 
 I enjoy working on things that have a real impact and owning them end-to-end. A few projects:
 
+- **[cuda_matrix_mult](https://github.com/alexseveringhaus/cuda_matrix_mult)** — hand-written CUDA SGEMM kernels optimized step-by-step (naive → coalesced → tiled → register-blocked → vectorized) to 62% of cuBLAS's throughput, with each speedup verified via Nsight Compute profiling rather than assumed.
 - **[alzheimers-ML](https://github.com/alexseveringhaus/alzheimers-ML)** — ML classifiers for Alzheimer's diagnosis on real ADNI neuroimaging data, deployed as a live API + dashboard.
 - **[Market-Neural-Network](https://github.com/alexseveringhaus/Market-Neural-Network)** — neural network ensemble for stock trend prediction with a backtested trading strategy.
 - **[Noise-Monitoring-IoT](https://github.com/alexseveringhaus/Noise-Monitoring-IoT)** — Raspberry Pi + sound sensor system that reacts to ambient noise in real time.
